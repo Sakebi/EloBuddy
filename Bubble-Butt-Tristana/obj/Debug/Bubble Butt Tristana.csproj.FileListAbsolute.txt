@@ -1,0 +1,11 @@
+c:\users\cleaori\documents\visual studio 2017\Projects\Bubble Butt Tristana\Bubble Butt Tristana\bin\Debug\Bubble Butt Tristana.exe.config
+c:\users\cleaori\documents\visual studio 2017\Projects\Bubble Butt Tristana\Bubble Butt Tristana\bin\Debug\Bubble Butt Tristana.exe
+c:\users\cleaori\documents\visual studio 2017\Projects\Bubble Butt Tristana\Bubble Butt Tristana\bin\Debug\Bubble Butt Tristana.pdb
+c:\users\cleaori\documents\visual studio 2017\Projects\Bubble Butt Tristana\Bubble Butt Tristana\bin\Debug\EloBuddy.dll
+c:\users\cleaori\documents\visual studio 2017\Projects\Bubble Butt Tristana\Bubble Butt Tristana\bin\Debug\EloBuddy.SDK.dll
+c:\users\cleaori\documents\visual studio 2017\Projects\Bubble Butt Tristana\Bubble Butt Tristana\bin\Debug\SharpDX.dll
+c:\users\cleaori\documents\visual studio 2017\Projects\Bubble Butt Tristana\Bubble Butt Tristana\bin\Debug\SharpDX.Direct3D9.dll
+c:\users\cleaori\documents\visual studio 2017\Projects\Bubble Butt Tristana\Bubble Butt Tristana\bin\Debug\Newtonsoft.Json.dll
+c:\users\cleaori\documents\visual studio 2017\Projects\Bubble Butt Tristana\Bubble Butt Tristana\obj\Debug\Bubble Butt Tristana.csprojResolveAssemblyReference.cache
+c:\users\cleaori\documents\visual studio 2017\Projects\Bubble Butt Tristana\Bubble Butt Tristana\obj\Debug\Bubble Butt Tristana.exe
+c:\users\cleaori\documents\visual studio 2017\Projects\Bubble Butt Tristana\Bubble Butt Tristana\obj\Debug\Bubble Butt Tristana.pdb
