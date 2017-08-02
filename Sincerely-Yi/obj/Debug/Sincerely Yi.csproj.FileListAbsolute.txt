@@ -1,0 +1,11 @@
+C:\Users\Cleaori\Documents\Visual Studio 2017\Projects\Sincerly Yi\Sincerly Yi\bin\Debug\Sincerly Yi.exe.config
+C:\Users\Cleaori\Documents\Visual Studio 2017\Projects\Sincerly Yi\Sincerly Yi\bin\Debug\Sincerly Yi.exe
+C:\Users\Cleaori\Documents\Visual Studio 2017\Projects\Sincerly Yi\Sincerly Yi\bin\Debug\Sincerly Yi.pdb
+C:\Users\Cleaori\Documents\Visual Studio 2017\Projects\Sincerly Yi\Sincerly Yi\bin\Debug\EloBuddy.dll
+C:\Users\Cleaori\Documents\Visual Studio 2017\Projects\Sincerly Yi\Sincerly Yi\bin\Debug\EloBuddy.SDK.dll
+C:\Users\Cleaori\Documents\Visual Studio 2017\Projects\Sincerly Yi\Sincerly Yi\bin\Debug\SharpDX.dll
+C:\Users\Cleaori\Documents\Visual Studio 2017\Projects\Sincerly Yi\Sincerly Yi\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Cleaori\Documents\Visual Studio 2017\Projects\Sincerly Yi\Sincerly Yi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Cleaori\Documents\Visual Studio 2017\Projects\Sincerly Yi\Sincerly Yi\obj\Debug\Sincerely Yi.csprojResolveAssemblyReference.cache
+C:\Users\Cleaori\Documents\Visual Studio 2017\Projects\Sincerly Yi\Sincerly Yi\obj\Debug\Sincerly Yi.exe
+C:\Users\Cleaori\Documents\Visual Studio 2017\Projects\Sincerly Yi\Sincerly Yi\obj\Debug\Sincerly Yi.pdb
