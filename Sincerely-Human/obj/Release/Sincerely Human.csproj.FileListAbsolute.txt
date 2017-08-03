@@ -1,0 +1,11 @@
+C:\Users\Cleaori\Documents\Visual Studio 2017\Projects\Sincerely Human\Sincerely Human\bin\Release\EloBuddy.dll
+C:\Users\Cleaori\Documents\Visual Studio 2017\Projects\Sincerely Human\Sincerely Human\bin\Release\EloBuddy.SDK.dll
+C:\Users\Cleaori\Documents\Visual Studio 2017\Projects\Sincerely Human\Sincerely Human\bin\Release\SharpDX.dll
+C:\Users\Cleaori\Documents\Visual Studio 2017\Projects\Sincerely Human\Sincerely Human\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Cleaori\Documents\Visual Studio 2017\Projects\Sincerely Human\Sincerely Human\bin\Release\Newtonsoft.Json.dll
+C:\Users\Cleaori\Documents\Visual Studio 2017\Projects\Sincerely Human\Sincerely Human\obj\Release\Sincerely Human.csprojResolveAssemblyReference.cache
+C:\Users\Cleaori\Documents\Visual Studio 2017\Projects\Sincerely Human\Sincerely Human\obj\Release\Sincerely Human.exe
+C:\Users\Cleaori\Documents\Visual Studio 2017\Projects\Sincerely Human\Sincerely Human\obj\Release\Sincerely Human.pdb
+C:\Users\Cleaori\Documents\Visual Studio 2017\Projects\Sincerely Human\Sincerely Human\bin\Release\Sincerely Human.exe.config
+C:\Users\Cleaori\Documents\Visual Studio 2017\Projects\Sincerely Human\Sincerely Human\bin\Release\Sincerely Human.exe
+C:\Users\Cleaori\Documents\Visual Studio 2017\Projects\Sincerely Human\Sincerely Human\bin\Release\Sincerely Human.pdb
