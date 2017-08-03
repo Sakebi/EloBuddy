@@ -2,9 +2,11 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using EloBuddy;
 using EloBuddy.SDK;
+using EloBuddy.SDK.Constants;
 using EloBuddy.SDK.Enumerations;
 using EloBuddy.SDK.Menu.Values;
 using EloBuddy.SDK.Menu;
@@ -36,7 +38,8 @@ namespace Sincerly_Yi
         public static readonly AIHeroClient Player = ObjectManager.Player;
 
         public static AIHeroClient Target = null;
-
+        private static AIHeroClient fromHero= fromHero;
+            
 
         //After Loading
 
@@ -98,14 +101,8 @@ namespace Sincerly_Yi
             AutoPotions();
             SmartR();
         }
-        ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-
-        //When Champion Levels up
-
-        
-        ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
+       
         private static void Combo()
         {
             var enemies = EntityManager.Heroes.Enemies.OrderByDescending(a => a.HealthPercent)
@@ -133,11 +130,17 @@ namespace Sincerly_Yi
             {
                 W.Cast();
             }
-            if (SincerlyMenu.ResetAa() && W.IsReady() && target.IsValidTarget(250) && !target.IsInvulnerable)
+            if (SincerlyMenu.ResetAa() && W.IsReady() && target.IsValidTarget(250) && !target.IsInvulnerable && Player.HasBuff("doublestrike"))
             {
                 W.Cast();
-                Orbwalker.ResetAutoAttack();
-                Orbwalker.ResetAutoAttack();
+                
+                    Orbwalker.ResetAutoAttack();
+                    EloBuddy.Player.IssueOrder(GameObjectOrder.AttackTo, target);
+                
+
+
+
+
             }
             if (R.IsReady() && SincerlyMenu.ComboR1() &&
                 Player.CountEnemyChampionsInRange(1000) == SincerlyMenu.ComboREnemies() && !target.IsInvulnerable)

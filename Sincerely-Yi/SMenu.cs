@@ -682,24 +682,15 @@ namespace Sincerly_Yi
                 return Activator["Suppression"].Cast<CheckBox>().CurrentValue;
             }
 
-            public static int SkinId()
-            {
-                return MiscMenu["skin.Id"].Cast<Slider>().CurrentValue;
-            }
+
 
             public static bool GapcloserQ()
             {
                 return MiscMenu["gapcloser.Q"].Cast<CheckBox>().CurrentValue;
             }
 
-            public static bool SkinChanger()
-            {
-                return MiscMenu["SkinChanger"].Cast<CheckBox>().CurrentValue;
-            }
-            public static bool CheckSkin()
-            {
-                return MiscMenu["checkSkin"].Cast<CheckBox>().CurrentValue;
-            }
+            
+            
         }
     }
 
